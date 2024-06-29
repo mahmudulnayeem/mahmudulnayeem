@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as nextJs developer
 - 🌱 I’m currently learning Angular
+
+![contrib-graph](https://github.com/mahmudulnayeem/mahmudulnayeem/raw/output/github-snake.svg#gh-light-mode-only)
+![contrib-graph](https://github.com/mahmudulnayeem/mahmudulnayeem/raw/output/github-snake-dark.svg#gh-dark-mode-only)
