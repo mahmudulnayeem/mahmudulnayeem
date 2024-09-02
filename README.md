@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 🔭 I’m currently working on Next.Js<br>💬 Ask me about Next.Js & React<br>
 
 
